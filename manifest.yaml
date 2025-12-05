@@ -1,0 +1,5 @@
+applications:
+- name: jackconnley-site
+  memory: 64M
+  buildpacks:
+  - paketo-buildpacks/nginx
